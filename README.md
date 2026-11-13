@@ -9,7 +9,7 @@ School Secretary is a desktop study planner for students at any school that uses
 School Secretary is free to download and use.
 
 - **Free:** deadlines, exams, classes and instructor posts kept on your computer; study lock-in, timers and a morning list; a calendar file you can add to Google Calendar.
-- **Pro ($4.99/month):** a study plan, "Right now", quick updates every few hours, Chat that answers from your syllabi and files, and a weekly review.
+- **Pro (coming later, not available yet):** a study plan, "Right now", quick updates every few hours, Chat that answers from your syllabi and files, and a weekly review.
 
 ## Download
 
