@@ -33,6 +33,10 @@ School Secretary checks this page for new versions and updates itself. You can a
 
 School Secretary runs on your own computer. You sign in to Brightspace yourself, in a normal browser window, and your course data stays on your computer. Settings has **Wipe school data** to remove the saved sign-in, the database and cached files. AI features are optional and use your own AI account key.
 
+The person in charge of protecting personal information for School Secretary is its owner. Write to schoolsecretary.official@gmail.com to ask what we hold about you, to correct it or to delete it. The full Privacy page is inside the app, under Settings.
+
+School Secretary is for people 16 and older.
+
 Some schools limit automated access or third-party tools. Check your school's acceptable-use and academic-integrity policies.
 
 ## Contact
